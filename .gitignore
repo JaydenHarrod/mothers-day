@@ -1,6 +1,5 @@
 .DS_Store
 output/
-dist/
 lib/
 tmp/
 node_modules/
